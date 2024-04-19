@@ -11,6 +11,8 @@ Then, run the development server:
 npm run dev
 ```
 
+Go to .env file and add your API key
+
 To change the user for which you are fetching the images go to src/app/page.js and edit line 17.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
