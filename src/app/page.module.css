@@ -1,0 +1,12 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Four columns with equal width */
+  gap: 20px; /* Add gap between grid items */
+  align-items: center;
+  justify-items: center;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+}
