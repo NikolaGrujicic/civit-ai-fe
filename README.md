@@ -9,12 +9,6 @@ Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 To change the user for which you are fetching the images go to src/app/page.js and edit line 17.
