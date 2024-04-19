@@ -1,8 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
-First, run the development server:
+First run:
+```bash
+npm install
+```
+Then, run the development server:
 
 ```bash
 npm run dev
@@ -13,6 +16,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+To change the user for which you are fetching the images go to src/app/page.js and edit line 17.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
